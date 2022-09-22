@@ -1,1 +1,1 @@
-# Data_Science_ML_Projects
+# My independent Data Science and ML Projects
